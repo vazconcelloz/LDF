@@ -171,7 +171,7 @@ function renderSummaryHtml(plan, isMobile) {
         <p class="secure-note">🔒 Pagamento 100% seguro</p>
         <div class="guarantee">
           <span>Garantido por</span>
-          <img src="assets/sura (1) (1).png" alt="Sura" class="logo-sura">
+          <img src="sura-logo.png" alt="Sura" class="logo-sura">
         </div>
       </div>
     </div>
